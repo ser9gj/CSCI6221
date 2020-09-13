@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539004532689",
+    "firebase_url": "https://tutorly-4f5d4.firebaseio.com",
+    "project_id": "tutorly-4f5d4",
+    "storage_bucket": "tutorly-4f5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539004532689:android:22b413595fb22c619952f0",
+        "android_client_info": {
+          "package_name": "com.senior.tutorly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539004532689-1a41ac3mihi818al3fs49bdrph44vl07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATUY1Nw-wPHFvaf3CbaDax6iB9iuSeUh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539004532689-1a41ac3mihi818al3fs49bdrph44vl07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
