@@ -19,6 +19,7 @@ Stream<User> get user{
 
   return _auth.onAuthStateChanged.map(_userFromFirebaseUser);
   
+  
   }
 
 //sign in anom
